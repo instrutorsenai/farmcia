@@ -1,5 +1,4 @@
 # farmcia 
 
 vendas
-
-sdf
+sd
